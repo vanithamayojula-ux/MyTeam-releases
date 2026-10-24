@@ -2,7 +2,7 @@
 
 Installers for **MyTeam**, a desktop app for browsing 267 specialist AI agents and installing them into Claude Code, Cursor, Codex and 8 other coding tools.
 
-**Download:** https://myteam-five-eosin.vercel.app/#/download — or pick a file from [Releases](../../releases/latest):
+**Download:** https://myteamhq.vercel.app/#/download — or pick a file from [Releases](../../releases/latest):
 
 | File | For |
 |---|---|
